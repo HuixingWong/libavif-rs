@@ -13,4 +13,4 @@ license="BSD-2-Clause"
 exclude = ["/vendor/third_party/googletest/", "/vendor/test/*.cc", "/vendor/test/*.h", "/vendor/doc/", "/vendor/examples/", "*.dox"]
 
 [build-dependencies]
-cmake = "0.1"
+cmake = "0.1.50"
